@@ -7,3 +7,13 @@ run the csp.py code using streamlit run csp.py command.
 csp.py code contains the streamlit code that takes you to a web page after runnig where we can find whether the electricity is faithfull or unfaithfull and also it shows machine learning algorithms with their accuracies.
 main.py file contains the main code of the project. That main.py code is downloaded to a svm model using pickle and that model is used in csp.py
 I provided out report and research paper in this repository.
+
+# Output screenshots and thier accuracy
+
+![image](https://github.com/user-attachments/assets/946be6c0-c055-4424-8b5c-b99a4b29750b)
+
+![image](https://github.com/user-attachments/assets/584084bd-7b73-4fb2-bb63-c5189210ea8f)
+
+![image](https://github.com/user-attachments/assets/e883a757-7dbd-4fa6-a13d-7f465febe52b)
+
+
